@@ -30,3 +30,6 @@ bin/*
 .classpath
 .project
 .settings
+
+# Only for the public repository
+"Quizzes and Exams"/
